@@ -96,6 +96,7 @@ vbuzky
 virlock
 virransom
 waltrix
+wannacrypt
 zuquitache
 pokemongo
 tox
